@@ -3,7 +3,7 @@
 //  SBDict
 //
 //  Created by Hao Wu on 12/20/11.
-//  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2011 Hao Wu. All rights reserved.
 //
 
 #import "DictImpl.h"

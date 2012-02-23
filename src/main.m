@@ -1,3 +1,10 @@
+//
+//  main.m
+//  SBDict
+//
+//  Created by Hao Wu on 12/20/11.
+//  Copyright (c) 2011 Hao Wu. All rights reserved.
+//
 #import <CoreFoundation/CoreFoundation.h>
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
